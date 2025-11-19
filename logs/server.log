@@ -9,3 +9,9 @@ INFO:     172.20.0.1:35792 - "GET /api/workouts HTTP/1.1" 200 OK
 INFO:     172.20.0.1:35804 - "GET /api/logs HTTP/1.1" 200 OK
 INFO:     172.20.0.1:35816 - "GET /api/workouts HTTP/1.1" 200 OK
 INFO:     172.20.0.1:35828 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48106 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48118 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48106 - "GET /api/workouts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48118 - "GET /api/workouts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48106 - "GET /api/logs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:48118 - "GET /api/logs HTTP/1.1" 200 OK
